@@ -23,7 +23,7 @@ public class Fenetre extends JFrame implements ActionListener{
 	private JMenuItem itemSupprimer;
 	private JMenuItem itemAfficher;
 	private JMenuItem itemRechercher;
-    
+    //
     
     public Fenetre(){
         this.setTitle("vacances 2017 Menu");
